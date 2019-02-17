@@ -181,5 +181,8 @@
                     } 
                 ]
         },
-	"diplomaStartDate" : "28-1-2019"
+		{
+			"Mess" : "diploma",
+            "date" : "28-1-2019"
+        }
 ]
