@@ -26,27 +26,27 @@
                 ]
         },
         {
-            "date": "12-3-2019",
+            "date": "18-3-2019",
             "data":[
                     {
                         "day": "Tuesday",
-                        "BreakFast": "ONION UTTAPAM",
+                        "BreakFast": "MIX VEG PARATHA WITH CURD",
                         "Lunch": {
-                                    "Pulses": "BLACK CHANA MASALA",
-                                    "Veges" : "BHINDI FRY",
-                                    "DAL_KADHI" : "DAL PANCHRATNA",
+                                    "Pulses": "MIX KATOL GRAVY",
+                                    "Veges" : "BHINDI ACHARI",
+                                    "DAL_KADHI" : "DAL PALAK",
                                     "RICE_PREP" : "JEERA RICE" ,
                                     "INDIAN_BREAD": "CHAPATI",
                                     "ACCOMP" : {"SALAD" : "ONION" , "OTHERS": "CHASS"} 
                                     },
-                        "Snacks": "VEG CUTLET",
+                        "Snacks": "BHEL WITH GREEN AND SWEET CHUTNEY",
                         "Dinner":{
-                                "Pulses": "PALAK PANEER",
-                                "Veges" : "DOSA SABZI",
+                                "Pulses": "PANEER MAKHANI",
+                                "Veges" : "DOODHI DRY",
                                 "DAL_KADHI" : "DAL FRY",
                                 "RICE_PREP" : "PLAIN RICE" ,
                                 "INDIAN_BREAD": "PARATHA",
-                                "ACCOMP" : {"SALAD" : "MALAI JAAMUN" , "OTHERS":  "GREEN SALAD"} 
+                                "ACCOMP" : {"SALAD" : "WATERMELON" , "OTHERS":  "CORN CHAT"} 
                                 }                   
                     } 
                     ]
