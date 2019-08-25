@@ -1,149 +1,149 @@
 [
         {
-            "date": "25-3-2019",
+            "date": "26-08-2019",
             "data":[
                     {
                         "day": "Monday",
-                        "BreakFast": "SET DOSA WITH SAMBHAR AND RED CHUTNEY",
+                        "BreakFast": "VEG UPMA WITH WHITE CHUTNEY",
                         "Lunch": {
-                                "Pulses": "WHITE PEAS MASALA",
-                                "Veges" : "GOBI CAPSICUM",
-                                "DAL_KADHI" : "DAL TADKA",
-                                "RICE_PREP" : "JEERA RICE" ,
-                                "INDIAN_BREAD": "CHAPATI ",
-                                "ACCOMP" : {"SALAD" : "SPROUTED SALAD" , "OTHERS":  "CHAAS"} 
-                                },
-                        "Snacks": "VEG CUTLET",
-                        "Dinner":{
-                                "Pulses": "PALAK PANEER",
-                                "Veges" : "DOSA SABZI",
-                                "DAL_KADHI" : "DAL FRY",
+                                "Pulses": "BLACK CHANNA MASALA",
+                                "Veges" : "ALOO FRY",
+                                "DAL_KADHI" : "DAL KOHLAPURI",
                                 "RICE_PREP" : "PLAIN RICE" ,
-                                "INDIAN_BREAD": "PARATHA",
-                                "ACCOMP" : {"SALAD" : "MALAI JAAMUN" , "OTHERS":  "GREEN SALAD"} 
+                                "INDIAN_BREAD": "PALAK PURI ",
+                                "ACCOMP" : {"SALAD" : "CUCUMBER SALAD" , "OTHERS":  "CHAAS"} 
+                                },
+                        "Snacks": "COLESLAW SANDWICH",
+                        "Dinner":{
+                                "Pulses": "TOMATO SOUP",
+                                "Veges" : "VEG HANDI",
+                                "DAL_KADHI" : "PLAIN DAL",
+                                "RICE_PREP" : " TADKA RICE" ,
+                                "INDIAN_BREAD": "CHAPATI",
+                                "ACCOMP" : {"SALAD" : "PINEAPPLE SHEERA" , "OTHERS":  "GREEN SALAD"} 
                                 }                   
                     } 
                 ]
         },
         {
-            "date": "19-3-2019",
+            "date": "27-08-2019",
             "data":[
                     {
                         "day": "Tuesday",
-                        "BreakFast": "MIX VEG PARATHA WITH CURD",
+                        "BreakFast": " PARATHA WITH CHANNA",
                         "Lunch": {
-                                    "Pulses": "MIX KATOL GRAVY",
-                                    "Veges" : "BHINDI ACHARI",
-                                    "DAL_KADHI" : "DAL PALAK",
-                                    "RICE_PREP" : "JEERA RICE" ,
+                                    "Pulses": "RAJMA MASALA",
+                                    "Veges" : "SOYA KADAI",
+                                    "DAL_KADHI" : "DAL TADKA",
+                                    "RICE_PREP" : "PLAIN RICE" ,
                                     "INDIAN_BREAD": "CHAPATI",
-                                    "ACCOMP" : {"SALAD" : "ONION" , "OTHERS": "CHASS"} 
+                                    "ACCOMP" : {"SALAD" : "TOSSED SALAD" , "OTHERS": "LIME WATER"} 
                                     },
-                        "Snacks": "BHEL WITH GREEN AND SWEET CHUTNEY",
+                        "Snacks": "WHITE DHOKLA",
                         "Dinner":{
-                                "Pulses": "PANEER MAKHANI",
-                                "Veges" : "DOODHI DRY",
-                                "DAL_KADHI" : "DAL FRY",
-                                "RICE_PREP" : "PLAIN RICE" ,
-                                "INDIAN_BREAD": "PARATHA",
-                                "ACCOMP" : {"SALAD" : "WATERMELON" , "OTHERS":  "CORN CHAT"} 
+                                "Pulses": "CORN PALAK",
+                                "Veges" : "ALOO CAPSICUM",
+                                "DAL_KADHI" : "DAL LASOONI",
+                                "RICE_PREP" : "STEAM RICE" ,
+                                "INDIAN_BREAD": "CHAPATI",
+                                "ACCOMP" : {"SALAD" : "MALAI JAMUN" , "OTHERS":  "CORN CHAT"} 
                                 }                   
                     } 
                     ]
         },
         {
-            "date": "13-3-2019",
+            "date": "28-08-2019",
             "data":[
                     {
                         "day": "Wednesday",
-                        "BreakFast": "MOONG DAAL CHILLA WITH KETCHUP",
+                        "BreakFast": "SET DOSA WITH SAMBHAR AND RED CHUTNEY",
                         "Lunch": {
-                                "Pulses": "CHOOLE MASALA",
-                                "Veges" : " ",
-                                "DAL_KADHI" : "VEG RAITA",
-                                "RICE_PREP" : "VEG DUM BIRYANI" ,
+                                "Pulses": "DUM ALOO PUNJABI",
+                                "Veges" : " MATKI DRY",
+                                "DAL_KADHI" : "DAL PALAK",
+                                "RICE_PREP" : "JEERA RICE" ,
                                 "INDIAN_BREAD": "CHAPATI",
-                                "ACCOMP" : {"SALAD" : "FRYUMS" , "OTHERS": " "} 
+                                "ACCOMP" : {"SALAD" : "GREEN SALAD" , "OTHERS": "TANG "} 
                                 },
-                        "Snacks": "CHINESE BHEL",
+                        "Snacks": "BREAD PAKODA",
                         "Dinner":{
-                                "Pulses": "WHITE PEAS MASALA",
-                                "Veges" : "ALOO GOBHI",
-                                "DAL_KADHI" : "PYAAZ DAL",
+                                "Pulses": "PANEER BUTTER MASALA",
+                                "Veges" : "MIX KATOL",
+                                "DAL_KADHI" : "MAA KI DAL",
                                 "RICE_PREP" : "PLAIN RICE" ,
-                                "INDIAN_BREAD": "CHAPATI ",
-                                "ACCOMP" : {"SALAD" : "WATERMELON" , "OTHERS":  "CORN CHAT"} 
+                                "INDIAN_BREAD": "MASALA PARATHA",
+                                "ACCOMP" : {"SALAD" : "BANANA" , "OTHERS":  "STICK SALAD"} 
                                 }                   
                     } 
                     ]
         },
         {
-            "date": "14-3-2019",
+            "date": "29-08-2019",
             "data":[
                     {
                         "day": "Thursday",
-                        "BreakFast": "KANCHIPURAM IDLI WITH SAMBHAR AND CHUTNEY",
+                        "BreakFast": "BESAN CHILLA WITH TOMATO SPRINKLING(TOMATO OMELLETE)",
                         "Lunch": {
-                                "Pulses": "RAJMA MASALA",
-                                "Veges" : "BHARELA BAINGAN",
-                                "DAL_KADHI" : "DAL PALAK",
-                                "RICE_PREP" : "PLAIN RICE" ,
+                                "Pulses": "WHITE PEAS MASALA",
+                                "Veges" : "BHINDI DO PYAZA",
+                                "DAL_KADHI" : "YELLOW DAL",
+                                "RICE_PREP" : "ONION CHILLI PULAV" ,
                                 "INDIAN_BREAD": "CHAPATI ",
-                                "ACCOMP" : {"SALAD" : "PASTA SALAD" , "OTHERS":  "TANG"} 
+                                "ACCOMP" : {"SALAD" : "CARROT SALAD" , "OTHERS":  "KOKAM SHERBET"} 
                                 },
-                        "Snacks": "VEG BURGER",
+                        "Snacks": "DAHI BHALLA CHAT WITH CHUTNEY",
                         "Dinner":{
-                                "Pulses": "MOONG MASALA",
-                                "Veges" : "MIX VEG",
-                                "DAL_KADHI" : "MAA KI DAL",
+                                "Pulses": "MALAI METHI MUTTER",
+                                "Veges" : "DOSA SABZI",
+                                "DAL_KADHI" : "DAL TADKA",
                                 "RICE_PREP" : "JEERA RICE" ,
                                 "INDIAN_BREAD": "CHAPATI",
-                                "ACCOMP" : {"SALAD" : "SEVAIYA KHEER" , "OTHERS":  "PEANUT SALAD"} 
+                                "ACCOMP" : {"SALAD" : "RICE KHEER" , "OTHERS":  "PEANUT SALAD"} 
                                 }                   
                     } 
                     ]
         },
         {
-            "date": "15-3-2019",
+            "date": "30-08-2019",
             "data":[
                     {
                         "day": "FRIDAY",
-                        "BreakFast": "PURI BHAJI",
+                        "BreakFast": "KANCHIPURAM IDLI WITH SAMBHAR AND CHUTNEY",
                         "Lunch": {
-                                "Pulses": "METHI MUTTER MALAI",
-                                "Veges" : "JEERA ALOO",
-                                "DAL_KADHI" : "DAL TADKA",
-                                "RICE_PREP" : "JEERA RICE" ,
+                                "Pulses": "ALOO MUTTER",
+                                "Veges" : "VEG DUM BIRYANI",
+                                "DAL_KADHI" : "",
+                                "RICE_PREP" : "" ,
                                 "INDIAN_BREAD": "CHAPATI ",
-                                "ACCOMP" : {"SALAD" : "SPROUTED SALAD" , "OTHERS":  "CHAAS"} 
+                                "ACCOMP" : {"SALAD" : "BOONDI RAITA" , "OTHERS":  "FRYUMS"} 
                                 },
-                        "Snacks": "PASTA IN WHITE SAUCE",
+                        "Snacks": "IDLI CHILLY",
                         "Dinner":{
-                                "Pulses": "VEG KORMA",
-                                "Veges" : "SOYA 65",
-                                "DAL_KADHI" : "PLAIN DAL",
-                                "RICE_PREP" : "PLAIN RICE" ,
-                                "INDIAN_BREAD": "CHAPATI ",
-                                "ACCOMP" : {"SALAD" : "MOONG DAL HALWA" , "OTHERS":  "CHANA SALAD"} 
+                                "Pulses": "HARYALI CHHOLE",
+                                "Veges" : "CABBAGE MUTTER",
+                                "DAL_KADHI" : "DAL MAKHANI",
+                                "RICE_PREP" : "STEAM RICE" ,
+                                "INDIAN_BREAD": "PURI ",
+                                "ACCOMP" : {"SALAD" : "JALEBI" , "OTHERS":  "GREEN SALAD"} 
                                 }                   
                     } 
                     ]
         },
 		{
-            "date": "16-3-2019",
+            "date": "31-08-2019",
             "data":[
                     {
                         "day": "SATURDAY",
-                        "BreakFast": "MENDU WADA WITH SAMBAR AND CHUTNEY",
+                        "BreakFast": "POHA WITH SEV AND CHUTNEY",
                         "Lunch": {
-                                "Pulses": "BABY CORN MASALA",
-                                "Veges" : "ARBI DRY",
-                                "DAL_KADHI" : "DAL MAKHANI",
+                                "Pulses": "MIX USAL",
+                                "Veges" : "TAWA SABZI",
+                                "DAL_KADHI" : "GREEN MOONG DAL",
                                 "RICE_PREP" : "PLAIN RICE" ,
                                 "INDIAN_BREAD": "CHAPATI",
-                                "ACCOMP" : {"SALAD" : "KACHUMBER SALAD" , "OTHERS":  "MINTY LIME WATER"} 
+                                "ACCOMP" : {"SALAD" : "STICK SALAD" , "OTHERS":  "BUTTER MILK"} 
                                 },
-                        "Snacks": "SAMOSA",
+                        "Snacks": "PASTA IN WHITE SAUCE",
                         "Dinner":{
                                 "Pulses": "MESS CLOSED",
                                 "Veges" : "",
@@ -156,27 +156,27 @@
                     ]
         },
         {
-            "date": "17-3-2019",
+            "date": "1-09-2019",
             "data":[
                     {
                         "day": "SUNDAY",
-                        "BreakFast": "POHA WITH SEV AND CHUTNEY",
+                        "BreakFast": "MASALA UTTAPAM",
                         "Lunch": {
-                                "Pulses": "BHAJI",
-                                "Veges" : "PAV",
-                                "DAL_KADHI" : "DAL FRY",
-                                "RICE_PREP" : "PAKODA PULAO" ,
-                                "INDIAN_BREAD": "",
-                                "ACCOMP" : {"SALAD" : "CHOPPED ONION AND LIME" , "OTHERS":  "LASSI"} 
+                                "Pulses": "CHOLE AMRITSARI",
+                                "Veges" : "",
+                                "DAL_KADHI" : "PLAIN DAL ",
+                                "RICE_PREP" : "VEG DUM PULAO" ,
+                                "INDIAN_BREAD": "BHATURA",
+                                "ACCOMP" : {"SALAD" : "RING ONION " , "OTHERS":  "LASSI"} 
                                 },
-                        "Snacks": "DAL PAKWAN",
+                        "Snacks": "PAANI PURI",
                         "Dinner":{
-                                "Pulses": "CHOLE PINDI",
-                                "Veges" : "BHINDI DO PYAAZA",
-                                "DAL_KADHI" : "DAL TADKA",
-                                "RICE_PREP" : "JEERA RICE" ,
-                                "INDIAN_BREAD": "PALAK POORI",
-                                "ACCOMP" : {"SALAD" : "BANANA" , "OTHERS":  "STICK SALAD"} 
+                                "Pulses": "MUSHROOM MASALA",
+                                "Veges" : "MIX VEG DRY",
+                                "DAL_KADHI" : "DAL TRIVENI",
+                                "RICE_PREP" : "PEAS PULAV" ,
+                                "INDIAN_BREAD": "CHAPATI",
+                                "ACCOMP" : {"SALAD" : "FRUIT CUSTARD" , "OTHERS":  "SPROUT SALAD"} 
                                 }                   
                     } 
                 ]
