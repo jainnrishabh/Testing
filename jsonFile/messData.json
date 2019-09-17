@@ -1,10 +1,10 @@
 [
         {
-            "date": "07-9-2019",
+            "date": "17-9-2019",
             "data":[
                     {
                         "day": "Monday",
-                        "BreakFast": "07 wala",
+                        "BreakFast": "MOONG DAAL CHILLA WITH KETCHUP",
                         "Lunch": {
                                 "Pulses": "WHITE PEAS MASALA",
                                 "Veges" : "GOBI CAPSICUM",
@@ -26,11 +26,11 @@
                 ]
         },
         {
-            "date": "7-9-2019",
+            "date": "18-9-2019",
             "data":[
                     {
                         "day": "Tuesday",
-                        "BreakFast": "7 wala",
+                        "BreakFast": "MOONG DAAL CHILLA WITH KETCHUP",
                         "Lunch": {
                                     "Pulses": "MIX KATOL GRAVY",
                                     "Veges" : "BHINDI ACHARI",
@@ -52,7 +52,7 @@
                     ]
         },
         {
-            "date": "13-3-2019",
+            "date": "19-9-2019",
             "data":[
                     {
                         "day": "Wednesday",
@@ -78,7 +78,7 @@
                     ]
         },
         {
-            "date": "14-3-2019",
+            "date": "20-3-2019",
             "data":[
                     {
                         "day": "Thursday",
@@ -104,7 +104,7 @@
                     ]
         },
         {
-            "date": "15-3-2019",
+            "date": "21-9-2019",
             "data":[
                     {
                         "day": "FRIDAY",
@@ -130,7 +130,7 @@
                     ]
         },
 		{
-            "date": "16-3-2019",
+            "date": "22-3-2019",
             "data":[
                     {
                         "day": "SATURDAY",
@@ -183,6 +183,6 @@
         },
 		{
 			"Mess" : "diploma",
-            "date" : "2/25/2019"
+            "date" : "8/25/2019"
         }
 ]
